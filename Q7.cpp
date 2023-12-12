@@ -9,7 +9,7 @@ using namespace std;
 int main()
 {
     int c,i;
-    for(i=1;i<=4;i++)
+    for(i=1;i<=10;i++)
     {
         c=i;
         while(c>0)
